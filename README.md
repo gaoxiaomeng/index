@@ -26,7 +26,13 @@ git克隆代码：git clone git@github.com:gaoxiaomeng/index.git
 
 
 
+git status：查看本地的修改
 
+git add：添加修改到暂存区，后面跟文件，也可以跟正则表达式，比如 ./* 表示当前目录下的所有修改
+
+git commit：提交修改到本地git仓库，-m 标志表示提交注释
+
+git log：查看提交日志
 
  
 
