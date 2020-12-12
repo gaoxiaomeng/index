@@ -36,7 +36,7 @@ git log：查看提交日志
 
 git branch -a：查看分支
 
-
+git pull origin main：更新代码
 
 
 
