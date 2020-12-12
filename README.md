@@ -34,7 +34,9 @@ git commit：提交修改到本地git仓库，-m 标志表示提交注释
 
 git log：查看提交日志
 
- 
+git branch -a：查看分支
+
+
 
 
 
